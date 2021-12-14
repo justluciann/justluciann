@@ -1,4 +1,4 @@
-### Hi there, I'm Lucian or for friends just luciann 👋 
+# Hi there, I'm Lucian or for friends just luciann 👋 
 
 ## I'm a Fresh new Graduate in IT and I'm curently a very very junior Developer! !!
 
@@ -40,6 +40,3 @@
 [instagram]: https://www.instagram.com/justluciann/
 [linkedin]: https://www.linkedin.com/in/justluciann/
 
-
-
-[//]: # "[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]"
