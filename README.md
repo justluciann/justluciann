@@ -2,9 +2,9 @@
 
 ## I'm a Fresh new Graduate in IT and I'm curently a very very junior Developer! !!
 
-- 🌱 I’m currently learning everything 🤣
-- 💥  
-- ⚡ Fun fact: I used to play profesionally Dota2 and Magic The Gathering.
+- 🌱 I’m currently learning everything 🧽
+-	🗺️ Trying to conquest the front end field and then expand to the full stack development 🧭
+- 🕹️ Fun fact: I used to play profesionally Dota2 and Magic The Gathering 🔮
 
 ### Connect with me:
 
